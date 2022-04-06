@@ -3,7 +3,7 @@ html{
     background-repeat: no-repeat;
     background-size: 100%;
     height: 300%;
-    width: 300%;
+    width: 100%;
     border: 10px groove greenyellow;
 }
 .box1{
